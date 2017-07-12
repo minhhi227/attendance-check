@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+body {
+background-image: url(../image/tm.jpg); /*You will specify your image path here.*/
+
+-moz-background-size: cover;
+-webkit-background-size: cover;
+background-size: cover;
+background-position: top center ;
+background-repeat: no-repeat ;
+background-attachment: fixed;
+}
